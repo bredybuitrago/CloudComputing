@@ -1,0 +1,43 @@
+.cl-white{
+	color:#fff;
+}
+
+.cl-black{
+	color: #0c0c0c;
+}
+
+.ts-green{
+	color:#fff;
+	text-shadow: 0 0 4px #000, 0 0 4px #097b07, 0 0 1px #1b6b12, 0 0 13px #4eea24, 0 0 30px #082101, 0 0 40px #113e05, 0 0 55px #1b6507, 0 0 75px #217709;
+}
+
+.ts-red{
+	color:#fff;
+	text-shadow: 0 0 4px #000, 0 0 4px #f51616, 0 0 1px #a50b0b, 0 0 13px #ab1212, 0 0 30px #e2c1c1, 0 0 40px #e86868, 0 0 55px #ca5e5e, 0 0 75px #b13838;
+}
+
+.ts-blue{
+	color:#fff;
+	text-shadow: 0 0 4px #000, 0 0 4px #0b07d6, 0 0 1px #3937ce, 0 0 13px #8a93f7, 0 0 30px #3641c1, 0 0 40px #2844ab, 0 0 55px #1e228a, 0 0 75px #493ac3;
+}
+
+
+.bs-green{
+	cursor: pointer;
+	color:#fff;
+	box-shadow: 0 0 0px #000, 0 0 2px #097b07, 0 0 1px #1b6b12, 0 0 3px #4eea24, 0 0 10px #082101, 0 0 10px #113e05, 0 0 0px #1b6507, 0 0 10px #217709 !important;
+}
+
+.bs-red{
+	cursor: pointer;
+	color:#fff;
+	box-shadow: 0 0 4px #000, 0 0 4px #f51616, 0 0 1px #a50b0b, 0 0 8px #ab1212, 0 0 10px #e2c1c1, 0 0 20px #e86868, 0 0 0px #ca5e5e, 0 0 10px #b13838 !important;
+}
+
+.bs-blue{
+	cursor: pointer;
+	color:#fff;
+	box-shadow: 0 0 4px #000, 0 0 4px #0b07d6, 0 0 1px #3937ce, 0 0 8px #8a93f7, 0 0 10px #3641c1, 0 0 20px #2844ab, 0 0 0px #1e228a, 0 0 10px #493ac3 !important;
+}
+
+
